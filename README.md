@@ -24,4 +24,4 @@ The layout is inspired by the academic homepage at https://junwzhou.github.io/. 
 
 ## Content notes
 
-Education and professional information comes from the supplied CV, with the September 2025 master's update. Earlier employment is shown with its start year, since current employment end dates have not been confirmed. SoraniX is presented as a research project. The public contact email is the address associated with the supplied GitHub profile. Telephone number, birth year, and other private CV details are omitted.
+Education and professional information comes from the supplied CV, with the September 2025 master's update. Earlier employment is shown with its start year, since current employment end dates have not been confirmed. SoraniX is presented as a research project. The public contact email is mzginsulaiman@whut.edu.cn. The ORCID profile is https://orcid.org/0009-0004-5973-8453. Telephone number, birth year, and other private CV details are omitted.
