@@ -4,7 +4,7 @@ A responsive academic website for Mzgin Mahdi Sulaiman, a master's student at th
 
 ## Website
 
-Once GitHub Pages is enabled for this repository, the website is available at **https://mzginmei.github.io/mzgin/**.
+The website is live at **https://mzginmei.github.io/mzgin/**.
 
 In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **/ (root)**, and select **Save**.
 
@@ -14,7 +14,8 @@ In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **
 - `cv.html`: readable, printable CV; use **Print / Save as PDF** for a PDF copy.
 - `styles.css` and `cv.css`: desktop, mobile, and print layouts.
 - `script.js`: mobile navigation and current-section indicator.
-- `assets/monogram.svg`: initials used until a personal photograph is supplied.
+- `assets/profile.jpg`: profile photograph.
+- `assets/monogram.svg`: site favicon.
 - `.nojekyll`: serves the static files directly through GitHub Pages.
 
 No build tools, external fonts, analytics, or dependencies are required. All site links use relative paths, so the website works at the repository's `/mzgin/` path.
